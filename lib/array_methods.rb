@@ -3,8 +3,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  doge = ["wow"]
-  doge.sort
+  kick = ["I", "am", "Sparta"]]
+  kick.sort
 end
 
 def using_reverse(array)
