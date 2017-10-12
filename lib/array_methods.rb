@@ -3,8 +3,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  kick = ["I", "am", "Sparta"]
-  kick.sort
+  array = ["cool", "wow", "fail"]
+  array.sort
 end
 
 def using_reverse(array)
