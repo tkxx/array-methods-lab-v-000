@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  kick = ["I", "am", "Sparta"]]
+  kick = ["I", "am", "Sparta"]
   kick.sort
 end
 
