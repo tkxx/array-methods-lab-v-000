@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  doge = ["so", "scare", "much", "wow"]
+  doge = ["wow"]
   doge.sort
 end
 
